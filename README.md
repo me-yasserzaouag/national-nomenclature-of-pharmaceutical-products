@@ -1,5 +1,11 @@
 # National Nomenclature of Pharmaceutical Products
 
+<p align="center">
+  <a href="https://github.com/me-yasserzaouag/national-nomenclature-of-pharmaceutical-products/blob/main/LICENSE">
+    <img alt="MIT License" src="https://img.shields.io/github/license/me-yasserzaouag/national-nomenclature-of-pharmaceutical-products" />
+  </a>
+</p>
+
 Algérie — the **national nomenclature of pharmaceutical products** (nomenclature nationale des produits pharmaceutiques) as published by the Ministère de l'Industrie Pharmaceutique. **5381 products** as of VERSION JUIN 2026.
 
 Source: MIPH – Nomenclature Nationale des Produits Pharmaceutiques
@@ -72,7 +78,3 @@ Update nomenclature for VERSION <MONTH> <YEAR>
 ```
 
 `sql/` is regenerated via `tools/gen_sql.py` and committed alongside the data it's derived from.
-
-## Licence
-
-MIT - see [LICENSE](LICENSE).
